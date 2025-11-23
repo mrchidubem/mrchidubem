@@ -47,13 +47,13 @@
 </h2>
 
 ### 📈 GitHub Activity Graph:
-[![mrchidubem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=okwareddevnest)](https://github.com/okwareddevnest)
+[![mrchidubem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrchidubem)](https://github.com/mrchidubem)
 
 
 
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=okwareddevnest&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrchidubem&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------
