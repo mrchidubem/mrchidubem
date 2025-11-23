@@ -43,8 +43,12 @@
 </p><br />
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My GitHub Stats 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
+
+<br/>
+
 
 ### 📈 GitHub Activity Graph:
 [![mrchidubem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrchidubem)](https://github.com/mrchidubem)
