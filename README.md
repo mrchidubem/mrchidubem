@@ -10,10 +10,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="left">
     <!-- Existing Logos with Corrections -->
-    <!-- <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=DEA584" width="80" height="30"/> -->
-    <!-- <img src="https://img.shields.io/badge/-Burn-black?style=flat-square&logo=burn&logoColor=DEA584" width="80" height="30"/> -->
     <img src="https://img.shields.io/badge/-ICP-black?style=flat-square&logo=internet-computer&logoColor=white" width="80" height="30"/>
-    <!-- <img src="https://img.shields.io/badge/-Tauri-black?style=flat-square&logo=tauri&logoColor=FFC131" width="80" height="30"/> -->
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
@@ -21,10 +18,8 @@
     <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Adonisjs-black?style=flat-square&logo=adonisjs" width="80" height="30"/>
-    <!-- <img src="https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxtjs" width="80" height="30"/> -->
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB" width="80" height="30"/>
-    <!-- <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go" width="80" height="30"/> -->
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=Streamlit" width="80" height="30"/>
@@ -34,8 +29,6 @@
     <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" width="80" height="30"/>
-    <!-- <img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma" width="80" height="30"/> -->
-    <!-- <img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=Dialogflow" width="80" height="30"/> -->
     <img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" width="80" height="30"/>
